@@ -29,7 +29,8 @@ import traceback
 from datetime import datetime as dt
 from logging import DEBUG, INFO, basicConfig, getLogger, warning
 from pathlib import Path
-
+from dotenv import load_dotenv
+load_dotenv()
 import requests
 import telethon.utils
 from decouple import config
