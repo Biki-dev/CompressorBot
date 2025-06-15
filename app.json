@@ -25,7 +25,7 @@
         },
         "OWNER_ID": {
             "description": "Get ur Id Of Telegram nd Paste Here.",
-            "value": "@daaattebayo",
+            "value": "1746423569",
             "required": false
         }
     }
